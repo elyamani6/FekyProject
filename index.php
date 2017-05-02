@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo"hellow feky"
+         echo"hellow ya feky"
         ?>
     </body>
 </html>
